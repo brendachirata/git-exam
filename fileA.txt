@@ -4,3 +4,5 @@ feature 1 with 2 bugs
 feature1 wip
 feature1 with 2 bugs
 >>>>>>> feature1
+feature2 wip
+
