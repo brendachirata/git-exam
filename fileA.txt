@@ -5,5 +5,8 @@ feature1 wip
 feature1 with 2 bugs
 >>>>>>> feature1
 feature2 wip
+<<<<<<< HEAD
 results of feature1 with 1 bug
+=======
+>>>>>>> rel1
 
